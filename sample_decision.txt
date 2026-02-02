@@ -1,0 +1,121 @@
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+
+JOHN SMITH, individually and on behalf of all others similarly situated,
+                                                    Plaintiff-Appellant,
+                    v.
+
+ACME CORPORATION, a Delaware corporation,
+                                                    Defendant-Appellee.
+
+No. 23-4567
+
+Appeal from the United States District Court
+for the Northern District of California
+Hon. Jane Williams, District Judge, Presiding
+
+Argued and Submitted October 15, 2025
+San Francisco, California
+
+Filed January 30, 2026
+
+Before: MARTINEZ, CHEN, and RODRIGUEZ, Circuit Judges.
+
+Opinion by Judge MARTINEZ
+
+
+OPINION
+
+MARTINEZ, Circuit Judge:
+
+This case concerns whether ACME Corporation violated the Fair Labor Standards Act (FLSA), 29 U.S.C. § 201 et seq., by failing to pay overtime wages to software engineers classified as exempt employees. Plaintiff John Smith, on behalf of himself and a class of similarly situated employees, appeals the district court's grant of summary judgment in favor of ACME Corporation.
+
+I. BACKGROUND
+
+A. Factual Background
+
+ACME Corporation is a technology company headquartered in San Francisco, California, that develops and sells enterprise software solutions. Between 2020 and 2023, ACME employed approximately 500 software engineers at its California facilities.
+
+John Smith worked as a Senior Software Engineer at ACME from January 2020 to December 2023. During his employment, Smith regularly worked 50-60 hours per week but was not paid overtime compensation. ACME classified Smith and other software engineers as exempt employees under the "computer employee exemption" of the FLSA.
+
+Smith's primary duties included writing code, debugging software, attending team meetings, and participating in code reviews. He reported to a project manager and worked on assigned projects with specific deadlines and requirements.
+
+B. Procedural History
+
+Smith filed this action in the United States District Court for the Northern District of California in March 2024, alleging that ACME violated the FLSA by misclassifying him and other software engineers as exempt employees. Smith sought to represent a class of all software engineers employed by ACME between 2020 and 2023.
+
+The district court certified a class in August 2024. ACME moved for summary judgment, arguing that the software engineers qualified for the computer employee exemption. The district court granted ACME's motion in June 2025, finding that the engineers' duties satisfied the exemption requirements.
+
+Smith timely appealed.
+
+II. JURISDICTION AND STANDARD OF REVIEW
+
+We have jurisdiction under 28 U.S.C. § 1291. We review a grant of summary judgment de novo. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).
+
+III. DISCUSSION
+
+The FLSA requires employers to pay overtime compensation to employees who work more than 40 hours per week, unless the employee falls within a statutory exemption. 29 U.S.C. § 207(a)(1). The employer bears the burden of proving that an exemption applies. Corning Glass Works v. Brennan, 417 U.S. 188, 196-97 (1974).
+
+The computer employee exemption applies to employees who are compensated at specified rates and whose primary duty consists of:
+
+(1) The application of systems analysis techniques and procedures, including consulting with users, to determine hardware, software or system functional specifications;
+
+(2) The design, development, documentation, analysis, creation, testing or modification of computer systems or programs, including prototypes, based on and related to user or system design specifications;
+
+(3) The design, documentation, testing, creation or modification of computer programs related to machine operating systems; or
+
+(4) A combination of the aforementioned duties, the performance of which requires the same level of skills.
+
+29 U.S.C. § 213(a)(17); 29 C.F.R. § 541.400(b).
+
+A. Primary Duty Analysis
+
+The district court found that the software engineers' primary duties satisfied the computer employee exemption because they spent the majority of their time writing and debugging code. We disagree.
+
+The exemption requires not merely that an employee work with computers, but that the employee exercise discretion and independent judgment in applying systems analysis techniques or designing computer systems. See 29 C.F.R. § 541.400(a).
+
+Here, the record shows that Smith and other class members worked on assigned projects with specific requirements and deadlines set by management. They did not consult with users to determine system specifications, nor did they exercise independent judgment in designing software architecture. Rather, they implemented designs created by others and followed detailed specifications provided by project managers.
+
+This type of routine coding work, while requiring technical skill, does not satisfy the exemption's requirement for discretion and independent judgment. See Martin v. Cooper Elec. Supply Co., 940 F.3d 896, 905 (6th Cir. 2019) (holding that employees who "merely apply" technical knowledge do not qualify for exemption).
+
+B. Level of Skill Required
+
+ACME argues that the engineers' work required a high level of technical skill, which should satisfy the exemption. However, the exemption focuses not on the skill level required, but on the nature of the duties performed. See 29 C.F.R. § 541.400(c).
+
+Even highly skilled work may not qualify for the exemption if it consists primarily of implementing others' designs rather than exercising independent judgment in systems analysis or design. The engineers here, despite their technical expertise, functioned more as implementers than as designers or analysts.
+
+IV. CONCLUSION
+
+We hold that ACME has not met its burden of proving that the software engineers qualify for the computer employee exemption under the FLSA. The district court's grant of summary judgment is REVERSED, and the case is REMANDED for further proceedings consistent with this opinion.
+
+REVERSED and REMANDED.
+
+
+CONCURRENCE
+
+CHEN, Circuit Judge, concurring:
+
+I agree with the majority's conclusion but write separately to emphasize the importance of the "discretion and independent judgment" requirement in the computer employee exemption.
+
+The FLSA's overtime protections serve critical purposes in ensuring fair compensation for workers. Exemptions must be narrowly construed. The computer employee exemption was designed for highly skilled professionals who function as consultants or designers, not for all employees who work with computers.
+
+In today's technology-driven economy, many employees perform sophisticated technical work without exercising the level of discretion and independent judgment contemplated by the exemption. We must be careful not to allow employers to avoid overtime obligations simply because employees possess technical skills.
+
+The record here clearly shows that these engineers, despite their expertise, worked under close supervision on assigned tasks. This is not the type of independent, consultative work that Congress intended to exempt from overtime requirements.
+
+
+DISSENT
+
+RODRIGUEZ, Circuit Judge, dissenting:
+
+I respectfully dissent. The majority imposes an unduly restrictive interpretation of the computer employee exemption that is inconsistent with the statutory text and regulatory guidance.
+
+The regulation explicitly includes employees whose primary duty consists of "the design, development, documentation, analysis, creation, testing or modification of computer systems or programs." 29 C.F.R. § 541.400(b)(2). The software engineers here spent the majority of their time developing, testing, and modifying computer programs—activities that fall squarely within the exemption's text.
+
+The majority errs in requiring that engineers must "consult with users" or design "software architecture" to qualify for the exemption. The regulation contains no such requirement. It covers employees who develop and modify computer programs, regardless of whether they also perform higher-level design functions.
+
+Moreover, the record shows that these engineers exercised significant technical judgment in their work. They made decisions about coding approaches, debugged complex problems, and participated in technical design reviews. This level of technical discretion satisfies the exemption's requirements.
+
+The majority's interpretation would effectively eliminate the computer employee exemption for most software engineers, contrary to Congress's intent in creating this exemption specifically for computer professionals.
+
+I would AFFIRM the district court's judgment.
